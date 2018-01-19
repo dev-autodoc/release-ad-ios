@@ -2,6 +2,7 @@
 	"title": "Мы переехали",
 	"subtitle": "Получайте все обновления в нашем основном приложении.",
 	"url" : "https://dev-autodoc.github.io/release-ad-ios/warning_describing_pages/update.png",
+	"frequency": 3,
 	"shouldShow": true,
 	"isCritical": true
 }
