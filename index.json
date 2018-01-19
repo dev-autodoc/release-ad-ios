@@ -3,6 +3,6 @@
 	"subtitle": "Получайте все обновления в нашем основном приложении. Возвращение к истокам. Но это неточно.",
 	"url" : "https://dev-autodoc.github.io/release-ad-ios/warning_describing_pages/update.png",
 	"frequency": 3,
-	"shouldShow": true,
+	"shouldShow": false,
 	"isCritical": false
 }
