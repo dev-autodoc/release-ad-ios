@@ -1,8 +1,8 @@
 {
 	"title": "Мы переехали",
-	"subtitle": "Получайте все обновления в нашем основном приложении. Возвращение к истокам. Но это неточно.",
+	"subtitle": "Получайте все обновления в основном приложении «Автодок».",
 	"url" : "https://dev-autodoc.github.io/release-ad-ios/warning_describing_pages/update.png",
-	"frequency": 3,
-	"shouldShow": false,
+	"frequency": 2,
+	"shouldShow": true,
 	"isCritical": false
 }
