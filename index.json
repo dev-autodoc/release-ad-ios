@@ -2,7 +2,7 @@
 	"title": "Переезд в App Store",
 	"subtitle": "Получайте все обновления в основном приложении «Автодок».",
 	"url" : "https://dev-autodoc.github.io/release-ad-ios/warning_describing_pages/update.png",
-	"frequency": 2,
+	"frequency": 1,
 	"shouldShow": true,
 	"isCritical": false
 }
