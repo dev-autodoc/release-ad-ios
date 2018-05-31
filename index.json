@@ -4,5 +4,5 @@
 	"url" : "https://dev-autodoc.github.io/release-ad-ios/warning_describing_pages/update.png",
 	"frequency": 1,
 	"shouldShow": true,
-	"isCritical": false
+	"isCritical": true
 }
