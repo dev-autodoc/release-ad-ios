@@ -1,6 +1,6 @@
 {
-	"title": "Приложение отключено",
-	"subtitle": "Скачайте основную версию приложения «Автодок» в AppStore.",
+	"title": "Внимание",
+	"subtitle": "Приложение отключено. Скачайте основную версию приложения «Автодок» в AppStore.",
 	"url" : "https://dev-autodoc.github.io/release-ad-ios/warning_describing_pages/update.png",
 	"frequency": 1,
 	"shouldShow": true,
