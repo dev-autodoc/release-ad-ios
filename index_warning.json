@@ -1,7 +1,7 @@
 {
-	"title": "Обновление",
-	"subtitle": "Доступна новая версия в App Store. Обновите приложение для работы каталогов «По параметрам».",
+	"title": "Apple Pay",
+	"subtitle": "В течение нескольких часов оплата вновь станет доступна.",
 	"shouldShow": true,
-	"lastBuild": 129,
+	"lastBuild": 182,
 	"isCritical": false
 }
