@@ -1,7 +1,7 @@
 {
 	"title": "Технические работы",
 	"subtitle": "Совсем скоро всё заработает.",
-	"shouldShow": true,
-	"lastBuild": 181,
+	"shouldShow": false,
+	"lastBuild": 183,
 	"isCritical": false
 }
