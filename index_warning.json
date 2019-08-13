@@ -1,7 +1,7 @@
 {
 	"title": "Технические работы",
 	"subtitle": "Оригинальные каталоги могут быть недоступны. Совсем скоро всё заработает.",
-	"shouldShow": false,
-	"lastBuild": 185,
+	"shouldShow": true,
+	"lastBuild": 187,
 	"isCritical": false
 }
