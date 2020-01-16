@@ -2,7 +2,7 @@
 	"title": "Технические работы",
 	"subtitle": "Оригинальные каталоги совсем скоро заработают.",
 	"subtitle_": "Совсем скоро всё заработает.",
-	"shouldShow": false,
+	"shouldShow": true,
 	"lastBuild": 203,
 	"isCritical": false
 }
