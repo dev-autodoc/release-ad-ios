@@ -1,7 +1,7 @@
 {
-	"title": "Технические работы",
-	"subtitle": "Совсем скоро всё заработает.",
-	"shouldShow": false,
-	"lastBuild": 214,
+	"title": "Apple Pay",
+	"subtitle": "Технические работы. Скоро всё заработает.",
+	"shouldShow": true,
+	"lastBuild": 224,
 	"isCritical": false
 }
