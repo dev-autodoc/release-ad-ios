@@ -1,7 +1,7 @@
 {
 	"title": "Apple Pay",
 	"subtitle": "Технические работы. Совсем скоро всё заработает.",
-	"shouldShow": true,
+	"shouldShow": false,
 	"lastBuild": 224,
 	"isCritical": false
 }
