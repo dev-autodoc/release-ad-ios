@@ -1,7 +1,7 @@
 {
-	"title": "Технические работы",
-	"subtitle": "Совсем скоро всё заработает.",
+	"title": "Оплата картой",
+	"subtitle": "Для пополнения баланса необходимо\nобновить приложение.",
 	"shouldShow": true,
-	"lastBuild": 282,
+	"lastBuild": 271,
 	"isCritical": false
 }
