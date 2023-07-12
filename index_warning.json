@@ -1,7 +1,7 @@
 {
-	"title": "Обновите приложение",
-	"subtitle": "Вам необходимо обновиться\nдо актуальной версии в App Store.",
-	"shouldShow": true,
+	"title": "Технические работы",
+	"subtitle": "Совсем скоро всё заработает.\nПопробуйте позднее.",
+	"shouldShow": false,
 	"lastBuild": 328,
 	"isCritical": false
 }
