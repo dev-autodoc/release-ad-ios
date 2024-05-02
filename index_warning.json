@@ -1,7 +1,7 @@
 {
 	"title": "Технические работы",
 	"subtitle": "Совсем скоро всё заработает.\nПопробуйте позднее.",
-	"shouldShow": false,
+	"shouldShow": true,
 	"lastBuild": 360,
 	"isCritical": false
 }
